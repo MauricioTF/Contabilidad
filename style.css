@@ -1,0 +1,16 @@
+
+
+.tableA th, .tableA td {
+  padding: 5px; /* Cambia el valor para ajustar el espaciado entre celdas */
+}
+
+.thead-green {
+  background-color: rgb(0, 40, 99);
+  color: white;
+}
+
+.thead-catalogo {
+  background-color: rgb(0, 40, 99);
+  color: white;
+}
+
